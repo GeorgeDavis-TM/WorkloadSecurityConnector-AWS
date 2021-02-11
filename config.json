@@ -1,8 +1,8 @@
 {
     "dsmHost": "https://cloudone.trendmicro.com",
-    "c1wsApiKey": "0C0F6851-AB41-04C6-D6A8-5479A257E932:9281026D-7A73-7628-AA40-8ED41784A52F:afZikNkBGQsnqwCuLs38h+b1U2FpzFAnVtFbthMf7Vs=",
-    "awsDisplayName": "MyAwsAccountName",
-    "awsAccountId": "831323463193",
+    "c1wsApiKey": "<Your-API-Key>",
+    "awsDisplayName": "<AWSAccountName>",
+    "awsAccountId": "0123456789012",
     "useInstanceRole": false,
     "workspacesEnabled": false
 }
